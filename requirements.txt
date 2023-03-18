@@ -4,3 +4,5 @@ seaborn
 sklearn
 matplotlib
 dill
+catboost
+xgboost
